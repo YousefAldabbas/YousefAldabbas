@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef</h1>
 <h3 align="center">A passionate full-stack developer from Jordan</h3>
 
-- 🌱 I’m currently learning **typescript, django rest framework**
+- 🌱 I’m currently learning **typescript, FastAPI**
 
 - 💬 Ask me about **react**
 
