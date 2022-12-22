@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **yosuefaldabbas0@outlook.com**
+- 📫 How to reach me **yousefaldabbas0@outlook.com**
 
 - ⚡ Fun fact **REACT IS #1**
 
