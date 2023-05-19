@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef</h1>
 <h3 align="center">Backend developer from Jordan</h3>
 
-- 🌱 I’m currently learning **advance python, Django and Rust**
+- 🌱 I’m currently learning **Django and Rust**
 
 - 📫 How to reach me **yosuefaldabbas0@outlook.com**
 
