@@ -4,7 +4,7 @@
 I'm a backend developer from Jordan. I'm passionate about learning new technologies and building software that solves real-world problems. I'm currently diving into **Go** and **FastAPI**.
 
 ## Connect with Me
-- Twitter: [@joseph2s5](https://twitter.com/@joseph2s5)
+- X: [@joseph2s5](https://twitter.com/@joseph2s5)
 - Email: yousefaldabbas0@outlook.com
 
 <h3 align="left">Languages and Tools:</h3>
